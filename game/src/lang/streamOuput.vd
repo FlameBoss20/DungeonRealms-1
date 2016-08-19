@@ -1,0 +1,11 @@
+~[call$model.Player{group}]
+--> output.send[packet::handler.FE(proxy.PacketHandler)~from(vd.collection.class[1])
+.default
+.sub
+.sub+
+.sub++
+.pmod
+.gm
+.hgm
+.dev
+`end`

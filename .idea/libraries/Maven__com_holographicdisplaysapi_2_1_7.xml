@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com:holographicdisplaysapi:2.1.7">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/holographicdisplaysapi/2.1.7/holographicdisplaysapi-2.1.7.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/holographicdisplaysapi/2.1.7/holographicdisplaysapi-2.1.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/holographicdisplaysapi/2.1.7/holographicdisplaysapi-2.1.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

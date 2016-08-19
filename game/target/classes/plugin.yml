@@ -1,0 +1,7 @@
+name: DungeonRealms
+main: net.dungeonrealms.DungeonRealms
+version: 5.0-SNAPSHOT
+authors: [xFinityPro, Vawke]
+website: http://www.dungeonrealms.org
+depend: [WorldGuard, BossBarAPI, ProtocolLib, BungeeTabListPlus]
+description: The new and improved DungeonRealms!

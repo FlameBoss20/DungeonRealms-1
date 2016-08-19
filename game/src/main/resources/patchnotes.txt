@@ -1,0 +1,31 @@
+Build <build>
+
+&c.ORG Public BETA
+
+&2&lNew Features&0
+- Beta Vendor items now despawn upon drop.
+- Removed global-chat delay.
+- Rifts have been added.
+- Corrupted Entities have been added. (Part of Rifts).
+- Elemental creatures now have particles.
+- Added a toggle for blood particles.
+- Added a new creature system (including custom NPCs).
+- Added a new item system.
+- Added a new realm system.
+- Added a new spawner system.
+- Added a new loot chest system.
+- Added a new mining/fishing system.
+- Added a new networking/proxy system.
+- Added a new shard deployment system.
+- Added some stuff for GMs.
+
+
+&r
+&4&lBug Fixes&0
+- Fixed the chat filter filtering incorrect words.
+- PMODS can now talk in staffchat.
+- No more duplication bugs. C:
+- Some dungeon fixes.
+
+&4&lRemoved
+- Removed Citizens.

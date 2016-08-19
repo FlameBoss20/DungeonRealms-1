@@ -1,0 +1,7 @@
+name: DungeonRealmsProxy
+main: net.dungeonrealms.proxy.DungeonBungee
+version: 5.0-SNAPSHOT
+#depend: ['BungeeTabListPlus']
+authors: [Vawke, xFinityPro]
+website: http://www.dungeonrealms.org
+description: DungeonBungee by Vawke.

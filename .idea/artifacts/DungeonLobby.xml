@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="DungeonLobby">
+    <output-path>$USER_HOME$/Desktop/dungeonrealms/plugins</output-path>
+    <root id="archive" name="DungeonLobby.jar" />
+  </artifact>
+</component>

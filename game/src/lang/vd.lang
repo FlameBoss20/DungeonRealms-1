@@ -1,0 +1,15 @@
+#AUTO-GENERATED LIB KEY#
+main:
+ collection[$]:
+  - class[PacketHandler.class, BetaHandler.class]
+  - author[VawkeIO, Vawke, Giovanni]
+  - true
+ java.lang();
+  - forEach[as(key.FE)]
+  - for[as.main.java.lang.forEach(key)]
+  - call[as.main.java.lang.object]
+  - object[java.lang.Object]
+ io.vawke.vawkelib();
+  - call[java.lang.call->java.lang.object] #fixed the crash m8
+close[:]
+##end of file

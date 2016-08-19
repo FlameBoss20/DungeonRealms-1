@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bootstrap/DungeonRealms-bootstrap.iml" filepath="$PROJECT_DIR$/bootstrap/DungeonRealms-bootstrap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/DungeonRealms-common.iml" filepath="$PROJECT_DIR$/common/DungeonRealms-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/game/DungeonRealms-game.iml" filepath="$PROJECT_DIR$/game/DungeonRealms-game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lobby/DungeonRealms-lobby.iml" filepath="$PROJECT_DIR$/lobby/DungeonRealms-lobby.iml" />
+      <module fileurl="file://$PROJECT_DIR$/network/DungeonRealms-network.iml" filepath="$PROJECT_DIR$/network/DungeonRealms-network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proxy/DungeonRealms-proxy.iml" filepath="$PROJECT_DIR$/proxy/DungeonRealms-proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dungeonrealm.iml" filepath="$PROJECT_DIR$/.idea/dungeonrealm.iml" />
+    </modules>
+  </component>
+</project>
