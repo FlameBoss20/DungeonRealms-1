@@ -28,6 +28,7 @@ import java.util.Map;
 public class Soundtrack implements GenericMechanic, Listener {
 
     // INSTANCE //
+    //LOL WTF?
     protected static Soundtrack instance = null;
 
     private final long LOOP_DELAY = 30000L;
