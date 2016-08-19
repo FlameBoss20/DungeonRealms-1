@@ -2,7 +2,7 @@
 The 2016 Dungeon Realms code it currently uses + .ORG Beta code written by me (95%).
 It even has Apollo's shitty soundtrack, so yes, it's fresh.
 
-I've removed lots of code from the BetaHandler to prevent Mr.Keeling and his terrible developers from sniffing code from my systems.
+I've removed lots of code from the Beta package to prevent Mr.Keeling and his terrible developers from sniffing code from my systems.
 I've rewritten Apollo's terrible networking, so, that's nice. c:
 
 I also have removed the constants file. It had some stuff in it I prefer not to share.
