@@ -7,5 +7,8 @@ Take a deep breath, take your time. Open the project, clone it. Look through the
 
 Just FYI From myself - If you are reading this, the link to my Github was posted somewhere. I'm not sure where, but I'd like to let you know that you can PM me via Skype or Discord anytime, I am FlameBoss20 on both of them. This code is 100% open source here, and I'd rather let someone who knows Java more to be working with it rather than myself. Love you all <3
 
+I will create a setup tutorial
+-matt11matthew
+
 
 
